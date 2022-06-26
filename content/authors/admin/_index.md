@@ -45,7 +45,7 @@ social:
     icon_pack: fas
     link: mailto:eliardo.costa@ufrn.br #'/#contact'
   - icon: lattes
-    icon_pack: fab
+    icon_pack: ai
     link: http://lattes.cnpq.br/3160805152538713
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
