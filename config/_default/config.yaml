@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Eliardo Costa # Website name
-baseURL: 'https://eliardocosta.ufrn.br' # Website URL
+baseURL: 'https://eliardocosta.github.io' # Website URL
 
 ############################
 ## LANGUAGE
