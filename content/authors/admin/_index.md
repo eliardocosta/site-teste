@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson A. Bighetti
+title: Eliardo G. Costa
 
 # Is this the primary user of the site?
 superuser: true
