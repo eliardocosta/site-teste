@@ -43,22 +43,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:eliardo.costa@ufrn.br #'/#contact'
   - icon: lattes
     icon_pack: fab
     link: http://lattes.cnpq.br/3160805152538713
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/EliardoGCosta
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CJRHpW8AAAAJ&hl
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Eliardo-Costa
   - icon: github
     icon_pack: fab
     link: https://github.com/eliardocosta
-  - icon: linkedin
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://twitter.com/EliardoGCosta
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
